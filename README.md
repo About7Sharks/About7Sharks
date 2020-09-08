@@ -1,16 +1,27 @@
-### Hi there 👋
+Currently working as Fullstack Software Engineer on the development of [Accubrew](https://accubrew.io) 🍻 with [Gulf Photonics](http://www.gulfphotonics.com) 💡 based in sunny Florida 
+  
+## Hobbies
+  What I usualy do to stay busy
+  - Bodybuilding 🏋️‍♂️
+  - Coding 💻
+  - Going to Florida beaches 🏖 
+  - Traveling 🏞
+  - Learning Blockchain Technology 🏗️
+  - Listening to Podacasts and [music](https://open.spotify.com/playlist/37i9dQZF1EphhdCcTha7XI?si=cur9rcxGThiBeHUOPbFRhA) 🎧 
+  - Reading 📚 
+  - Penetration Testing 🧨
+  - GF 👩🏻‍⚕️
 
-<!--
-**About7Sharks/About7Sharks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Links
+- [Personal Site](https://zacarlin.eth.link)
+- [Linkedin](https://www.linkedin.com/mwlite/in/zachary-carlin-85402a123) 👔
+- [Github](https://github.com/about7sharks) 🧑‍💻
+- [Instagram](https://Instagram.com/zachary_carlin) 📷
+- [Email](mailto:zacarlin@gmail.com) ✉️
+- [Twitter](https://twitter.com/ZacharyCarlin) 🐦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Githubs Stats
+[![About7Sharks's github stats](https://github-readme-stats.vercel.app/api?username=about7sharks&theme=radical)](https://github.com/about7sharks/github-readme-stats)
