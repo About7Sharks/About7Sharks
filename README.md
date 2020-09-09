@@ -1,4 +1,4 @@
-Currently working as Fullstack Software Engineer on the development of [Accubrew](https://accubrew.io) 🍻 with [Gulf Photonics](http://www.gulfphotonics.com) 💡 based in sunny Florida 
+Fullstack Software Engineer and developer of [Accubrew](https://accubrew.io) 🍻 with [Gulf Photonics](http://www.gulfphotonics.com) 💡 based in sunny Florida 
   
 ## Hobbies
   What I usualy do to stay busy
