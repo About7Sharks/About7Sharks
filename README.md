@@ -26,4 +26,4 @@ Fullstack Software Engineer and developer of [Accubrew](https://accubrew.io) üç
 
 
 ### Githubs Stats
-![Metrics](https://github.com/about7sharks/about7sharks/blob/master/github-metrics.svg)
+![Metrics](https://github.com/About7Sharks/About7Sharks/blob/master/metrics.svg)
