@@ -1,4 +1,3 @@
-![Metrics](https://github.com/about7sharks/about7sharks/blob/master/github-metrics.svg)
 
 
 Fullstack Software Engineer and developer of [Accubrew](https://accubrew.io) 🍻 with [Gulf Photonics](http://www.gulfphotonics.com) 💡 based in sunny Florida 
@@ -27,4 +26,4 @@ Fullstack Software Engineer and developer of [Accubrew](https://accubrew.io) �
 
 
 ### Githubs Stats
-[![About7Sharks's github stats](https://github-readme-stats.vercel.app/api?username=about7sharks&theme=radical)](https://github.com/about7sharks/github-readme-stats)
+![Metrics](https://github.com/about7sharks/about7sharks/blob/master/github-metrics.svg)
