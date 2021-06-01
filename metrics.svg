@@ -1273,7 +1273,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="268.4014728117661" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="268.4014728117661" y="0" width="137.79228557808446" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="406.1937583898506" y="0" width="23.826350930450882" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="406.1937583898506" y="0" width="23.826350930450882" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="430.02010932030146" y="0" width="17.87299191942234" height="8" fill="#178600"/>
                     <rect mask="url(#languages-bar)" x="447.8931012397238" y="0" width="6.953993641992097" height="8" fill="#2b7489"/>
                     <rect mask="url(#languages-bar)" x="454.8470948817159" y="0" width="3.864914266328587" height="8" fill="#c6538c"/>
@@ -1290,7 +1290,7 @@
                 Rust
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Vue
               </div>
                     <div class="field center no-wrap language">
