@@ -1,7 +1,6 @@
 ## About 
 
-Fullstack Software Engineer and developer of [Accubrew](https://accubrew.io) 🍻 with [Gulf Photonics](http://www.gulfphotonics.com) 💡 based in sunny Florida 
-  
+Fullstack Software Engineer @ Dogwoodlogic.
 ## Hobbies
   What I usualy do to stay busy
   - Bodybuilding 🏋️‍♂️
@@ -16,7 +15,7 @@ Fullstack Software Engineer and developer of [Accubrew](https://accubrew.io) �
 
 
 ## Links
-- [Personal Site](https://zacarlin.eth.link)
+- [Personal Site](https://zacarlin.com)
 - [Linkedin](https://www.linkedin.com/mwlite/in/zachary-carlin-85402a123) 👔
 - [Github](https://github.com/about7sharks) 🧑‍💻
 - [Instagram](https://Instagram.com/zachary_carlin) 📷
