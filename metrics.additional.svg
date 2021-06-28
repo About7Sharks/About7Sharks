@@ -1169,7 +1169,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pi-hole/docker-pi-hole</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1473,7 +1473,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Mon, 28 Jun 2021 16:30:58  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 28 Jun 2021 17:48:06  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
