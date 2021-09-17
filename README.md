@@ -22,7 +22,3 @@ Fullstack Software Engineer @ Dogwoodlogic.
 - [Email](mailto:zacarlin@gmail.com) ✉️
 - [Twitter](https://twitter.com/ZacharyCarlin) 🐦
 
-
-
-### Githubs Stats
-![Metrics](https://github.com/About7Sharks/About7Sharks/blob/master/metrics.svg)
