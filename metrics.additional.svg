@@ -1347,7 +1347,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flashbots/docs</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1475,15 +1475,9 @@
                             <div class="entry">
                 <span class="value">1</span>
                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                23
+                24
                 
                   <div class="bottom">Sep.</div>
-                
-              </div>
-                            <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                24
                 
               </div>
                             <div class="entry">
@@ -1560,6 +1554,12 @@
                 6
                 
               </div>
+                            <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                7
+                
+              </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -1568,15 +1568,9 @@
                             <div class="entry">
                 <span class="value"></span>
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                23
+                24
                 
                 <div class="bottom">Sep.</div>
-                
-              </div>
-                            <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                24
                 
               </div>
                             <div class="entry">
@@ -1653,13 +1647,19 @@
                 6
                 
               </div>
+                            <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                7
+                
+              </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 06/10/2021, 23:16  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 07/10/2021, 00:56  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
