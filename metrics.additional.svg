@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>johngrantuk/aaveFlashLoan</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">1st Place 🏆 in the Gitcoin Web3 World Aave Hackathon. A bot that does arbitrage between two Uniswap exchanges using an Aave Flashloan as the capital for initial trade. Got a nice write up from the Aave team - https://medium.com/aave/gitcoin-x-aave-hackathon-recap-f61d24af2cb</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>medblocks/smart-on-fhir-vue</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -338,7 +338,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Feb 2022, 17:19:13  with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 3 Feb 2022, 18:19:57  with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
