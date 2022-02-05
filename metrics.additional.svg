@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>medblocks/smart-on-fhir-vue</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -338,7 +338,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Feb 2022, 21:12:42  with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 5 Feb 2022, 22:27:45  with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
