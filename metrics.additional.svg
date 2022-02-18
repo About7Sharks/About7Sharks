@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HL7/fhir</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official source for the HL7 FHIR Specification</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openai/glide-text2im</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GLIDE: a diffusion-based text-conditional image synthesis model</div>
@@ -335,7 +335,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Feb 2022, 20:17:51  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 18 Feb 2022, 21:15:13  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
