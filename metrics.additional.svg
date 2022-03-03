@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>digitalbazaar/bedrock-vue</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vue frontend framework running on Bedrock</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uport-project/veramo</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JavaScript Framework for Verifiable Data</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>showdownjs/showdown</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A bidirectional Markdown to HTML to Markdown converter written in Javascript</div>
@@ -343,7 +343,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Mar 2022, 20:18:03  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 3 Mar 2022, 21:15:47  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
