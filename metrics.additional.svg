@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datastack-net/dockerized</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run popular commandline tools within docker</div>
@@ -341,7 +341,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Mar 2022, 22:18:02  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 18 Mar 2022, 23:18:08  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
