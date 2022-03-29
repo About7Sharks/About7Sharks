@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mauro-codes/chrome-extension-with-svelte</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Boilerplate that includes a basic chrome extension that uses Svelte</div>
@@ -70,7 +70,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rari-Capital/solmate</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern, opinionated, and gas optimized building blocks for smart contract development.</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gakonst/foundry</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</div>
@@ -335,7 +335,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Mar 2022, 21:16:33  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 29 Mar 2022, 22:18:15  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
