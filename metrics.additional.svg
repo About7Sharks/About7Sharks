@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/wireit</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wireit upgrades your npm scripts to make them smarter and more efficient.</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>transmissions11/levm</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight Lua EVM</div>
@@ -343,7 +343,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 May 2022, 01:46:44  with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 3 May 2022, 03:25:40  with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
