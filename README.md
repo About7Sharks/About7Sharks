@@ -1,10 +1,11 @@
 ## About 
 
-Fullstack Software Engineer @ Dogwoodlogic.
+Fullstack Software Engineer
 ## Hobbies
   What I usualy do to stay busy
   - Bodybuilding 🏋️‍♂️
   - Coding 💻
+  - EVM and Cryptography 🕸️
   - Going to Florida beaches 🏖 
   - Traveling 🏞
   - Learning Blockchain Technology 🏗️
