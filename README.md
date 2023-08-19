@@ -1,6 +1,6 @@
 ## About 
 
-Fullstack Software Engineer
+Fullstack Software Engineer (Specializing in Vue, React, Node, and Typescript)
 ## Hobbies
   What I usualy do to stay busy
   - Bodybuilding 🏋️‍♂️
